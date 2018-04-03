@@ -1,0 +1,119 @@
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.App.xaml.g.cs
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Isogramd.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Isogramd.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PCLCrypto.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.BCrypt.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Kernel32.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.NCrypt.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Windows.Core.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.Abstractions.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/SkiaSharp.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Validation.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Auth.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PCLCrypto.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.BCrypt.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Kernel32.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.NCrypt.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Windows.Core.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/SkiaSharp.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Validation.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Auth.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.Abstractions.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.Abstractions.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.csprojResolveAssemblyReference.cache
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Isogramd.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Isogramd.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Newtonsoft.Json.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PCLCrypto.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.BCrypt.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Kernel32.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.NCrypt.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Windows.Core.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.Abstractions.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/SkiaSharp.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Validation.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Auth.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Newtonsoft.Json.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PCLCrypto.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.BCrypt.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Kernel32.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.NCrypt.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/PInvoke.Windows.Core.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/SkiaSharp.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Validation.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Auth.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Core.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.Abstractions.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.Abstractions.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/bin/Debug/Plugin.SecureStorage.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.csprojResolveAssemblyReference.cache
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.csproj.CoreCompileInputs.cache
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.App.xaml.g.cs
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Isogramd/obj/Debug/Isogramd.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Isogramd.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Isogramd.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PCLCrypto.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Plugin.SecureStorage.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\SkiaSharp.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Validation.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Auth.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PCLCrypto.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\SkiaSharp.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Validation.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Auth.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Plugin.SecureStorage.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\bin\Debug\Plugin.SecureStorage.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\obj\Debug\Isogramd.csproj.CoreCompileInputs.cache
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\obj\Debug\Isogramd.App.xaml.g.cs
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\obj\Debug\Isogramd.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\obj\Debug\Isogramd.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Isogramd\obj\Debug\Isogramd.csprojResolveAssemblyReference.cache

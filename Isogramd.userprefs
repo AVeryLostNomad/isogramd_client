@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{6A796A11-7126-4343-9EA1-A3C78F4468ED}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Isogramd.Droid PreferredExecutionTarget="Android.4_65_720p_Galaxy_Nexus_API_23" />
+</Properties>

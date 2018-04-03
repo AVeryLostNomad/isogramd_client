@@ -1,0 +1,247 @@
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.Droid.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.Droid.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/com.litttlesongstudios.Isogramd.apk
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/com.litttlesongstudios.Isogramd-Signed.apk
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/FormsViewGroup.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Auth.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/FormsViewGroup.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Auth.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Auth.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.dll
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.pdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/bin/com.litttlesongstudios.Isogramd.apk
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/values/styles.xml
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable/icon.png
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/R.cs.flag
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/uploadflags.txt
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.csprojResolveAssemblyReference.cache
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.Droid.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Isogramd.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Isogramd.Droid.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Plugin.SecureStorage.Abstractions.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Plugin.SecureStorage.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/Joey Maher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.Droid.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.Droid.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/com.litttlesongstudios.Isogramd.apk
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/com.litttlesongstudios.Isogramd-Signed.apk
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/FormsViewGroup.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Auth.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Isogramd.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Auth.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Auth.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.Abstractions.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.dll.mdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Plugin.SecureStorage.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/bin/Debug/Newtonsoft.Json.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.csprojResolveAssemblyReference.cache
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.csproj.CoreCompileInputs.cache
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.dll
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/Isogramd.Droid.pdb
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/android/bin/com.litttlesongstudios.Isogramd.apk
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/values/styles.xml
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable/icon.png
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/R.cs.flag
+/Users/jmaher/OneDrive/Forms/Isogramd/Droid/obj/Debug/uploadflags.txt
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\Isogramd.Droid.csprojResolveAssemblyReference.cache
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.Droid.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.Droid.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\com.litttlesongstudios.Isogramd.apk
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\com.litttlesongstudios.Isogramd-Signed.apk
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Auth.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Auth.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Auth.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Plugin.SecureStorage.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\Isogramd.Droid.csproj.CoreCompileInputs.cache
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\Isogramd.Droid.dll
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\Isogramd.Droid.pdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\bin\com.litttlesongstudios.Isogramd.apk
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\res\values\styles.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\res\drawable\icon.png
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\res\values-v21\styles.xml
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\R.cs.flag
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\uploadflags.txt
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.Droid.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Isogramd.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Isogramd.Droid.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Plugin.SecureStorage.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Xamarin.Auth.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\joeye\OneDrive\Forms\Isogramd\Droid\bin\Debug\Isogramd.Droid.dll
+bin\Debug\Isogramd.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Isogramd.Droid.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Isogramd.dll.mdb
+obj\Debug\linksrc\Plugin.SecureStorage.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.SecureStorage.dll.mdb
+obj\Debug\linksrc\Xamarin.Auth.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
